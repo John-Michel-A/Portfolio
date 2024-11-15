@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(262, 69%, 10%);
+    
+}
+#name{
+    color: white;
+    
+    margin-left: 20px;
+}
+p{
+    color: white;
+}
+.about{
+    float: left;
+    
+}
+.topnav{
+    float:right;
+    margin-top: 25px;
+    margin-right: 20px;
+   
+    overflow: hidden; 
+    
+}
+a{
+    color: white;
+}
+#logo{
+    flex: auto;
+}
